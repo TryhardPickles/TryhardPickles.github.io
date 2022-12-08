@@ -1,11 +1,6 @@
 * {
     font-family: 'Avenir Next';
 }
-.logo {
-    font-size: 36px;
-    color: black;
-    margin: 14px;
-}
 .logo span {
     color: red;
     font-size: 36px;
@@ -16,19 +11,34 @@
 }
 a {
     text-decoration: none;
+    font-size: 36px;
+    color: black;
+    margin: 14px;
 }
 a:link {
     text-decoration: none;
+    font-size: 36px;
+    color: black;
+    margin: 14px;
 }
 
 a:visited {
     text-decoration: none;
+    font-size: 36px;
+    color: black;
+    margin: 14px;
 }
 
 a:hover {
     text-decoration: none;
+    font-size: 36px;
+    color: black;
+    margin: 14px;
 }
 
 a:active {
     text-decoration: none;
+    font-size: 36px;
+    color: black;
+    margin: 14px;
 }
