@@ -1,6 +1,9 @@
 * {
     font-family: 'Avenir Next';
 }
+ul {
+    list-style-type: none;
+}
 .logo span {
     color: red;
     font-size: 36px;
